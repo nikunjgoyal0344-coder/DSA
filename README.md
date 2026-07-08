@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/nikunjgoyal0344-coder/DSA/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/nikunjgoyal0344-coder/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/nikunjgoyal0344-coder/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/nikunjgoyal0344-coder/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/nikunjgoyal0344-coder/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/nikunjgoyal0344-coder/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/nikunjgoyal0344-coder/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
