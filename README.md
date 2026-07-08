@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nikunjgoyal0344-coder/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/nikunjgoyal0344-coder/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/nikunjgoyal0344-coder/DSA/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/nikunjgoyal0344-coder/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/nikunjgoyal0344-coder/DSA/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/nikunjgoyal0344-coder/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nikunjgoyal0344-coder/DSA/tree/master/0090-subsets-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/nikunjgoyal0344-coder/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/nikunjgoyal0344-coder/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/nikunjgoyal0344-coder/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
