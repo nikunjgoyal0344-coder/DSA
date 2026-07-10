@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nikunjgoyal0344-coder/DSA/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/nikunjgoyal0344-coder/DSA/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/nikunjgoyal0344-coder/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/nikunjgoyal0344-coder/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/nikunjgoyal0344-coder/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/nikunjgoyal0344-coder/DSA/tree/master/0018-4sum) |
+| [0242-valid-anagram](https://github.com/nikunjgoyal0344-coder/DSA/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/nikunjgoyal0344-coder/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/nikunjgoyal0344-coder/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nikunjgoyal0344-coder/DSA/tree/master/0090-subsets-ii) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/nikunjgoyal0344-coder/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
