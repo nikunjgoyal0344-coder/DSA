@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/nikunjgoyal0344-coder/DSA/tree/master/0009-palindrome-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/nikunjgoyal0344-coder/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
